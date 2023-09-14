@@ -4,6 +4,7 @@ Estudante de programaçã
 🛎 Trabalho no setor industrial
 
 📚 Estudante de programação **Dev FullStack**
+Focado em **FrontEnd**
 
 📨 Contate-me no email: james.jhey020@hotmail.com
 
