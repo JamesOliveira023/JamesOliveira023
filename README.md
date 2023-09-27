@@ -1,4 +1,4 @@
-### Olá! eu sou James Oliveira👋
+### Ola Mundo ! eu sou James Oliveira👋
 Estudante de programaçã 
 
 🛎 Trabalho no setor industrial
