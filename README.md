@@ -1,5 +1,5 @@
 ### Ola Mundo ! eu sou James Oliveira👋
-Estudante de programaçã 
+Estudante de programação 
 
 🛎 Trabalho no setor industrial
 
